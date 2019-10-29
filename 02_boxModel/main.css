@@ -1,0 +1,31 @@
+/* *selection globaal css para probar que funcione* */
+div {
+    border: solid 2px blue;
+    height: 500px;
+}
+
+header{ 
+    border: solid 2px white;
+
+}
+
+nav{
+    border: solid 2px pink;
+}
+a{
+ border: solid 2px purple;
+ color: salmon;
+ text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+ color: tomato;
+}
+body{
+    background: orchid;
+}
+.portadadisco{
+    width: 300px;
+}
+/* *selector de clases importate poner el punto!!!*/

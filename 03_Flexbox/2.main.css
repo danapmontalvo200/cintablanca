@@ -1,0 +1,32 @@
+.body{
+    margin: 0;
+}
+
+.padre{
+    border: solid 2px blue;
+    height: 500px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: col;
+}
+.hija{
+    border: solid 1px rgb(0, 255, 242);
+    height: 200px;
+    widows: 30%;
+
+}
+
+.madre{
+    border: solid 2px pink;
+    height: 500px;
+    width: 50%;
+}
+.hijo{
+    border: solid 1px violet;
+    height: 500px;
+    widows: 20%;
+
+}
+
+

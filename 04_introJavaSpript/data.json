@@ -1,0 +1,11 @@
+{ "nombre" : "Dana",
+    "direccion : "Coacalco",
+    "telefono" : "5532568709",
+    "email" : "danapaolamonyalvocuna@gmail.com",
+    "edad" : "17",
+    "trabajo: ["dev.f", "develope", "mami"],
+    "mascotas" : {
+        "perros": "salchicha",
+        "gatos : "siames",
+        "pez": "dorado"}
+[]
