@@ -80,26 +80,23 @@
 
 
 //object
-let persona = {
-    nomnbre:"dana",
-    direccion: "jfdfdfnd",
-    telefono: "kffjefjer",
-    peliculas: {
-        accion: "avengers",
-        terror: "conjuro",
-        comedia: "son como niños",
-        romance: "el diario de una pasion",
-        drama:"y si me quedo",
-    },
-
-    musica: {
-        justinBieber: "baby",
-        paolaMami:"fingias",
-        tangana:"no te debi besar",
-        rosalia:"con altura",
-        relsB:"quedate, te quiero"
-    }
-comida: {
-    tacos
-}
-}
+//let persona = {
+//    nomnbre:"dana",
+//    direccion: "jfdfdfnd",
+//    telefono: "kffjefjer"}
+//    let peliculas:{
+//        accion: "avengers",
+//        terror: "conjuro",
+//        comedia: "son como niños",
+//        romance: "el diario de una pasion",
+//        drama:"y si me quedo"
+// }
+ //  let musica:c= {
+ //       justinBieber: "baby",
+ //       paolaMami:"fingias",
+ //       tangana:"no te debi besar",
+ //       rosalia:"con altura",
+ //       relsB:"quedate, te quiero"
+ //   }
+//let comida:= {
+    //tacos}
